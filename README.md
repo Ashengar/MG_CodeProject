@@ -8,3 +8,4 @@ Hovertank Game vrs AI Enemies
 * 03_Setting the Camera Up
 * 04_Setting Up Reticule and Main Menu Screen
 * 05_Tank Player Controller C++
+* 06_Adding AI Controller C++
