@@ -10,3 +10,4 @@ Hovertank Game vrs AI Enemies
 * 05_Tank Player Controller C++
 * 06_Adding AI Controller C++
 * 07_Adding Tick Function
+* 08_Player and AI Aiming
