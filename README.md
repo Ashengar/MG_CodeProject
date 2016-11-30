@@ -11,3 +11,4 @@ Hovertank Game vrs AI Enemies
 * 06_Adding AI Controller C++
 * 07_Adding Tick Function
 * 08_Player and AI Aiming
+* 09_Aiming pt2
