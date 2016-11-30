@@ -15,7 +15,7 @@ class MG_CODEPROJECT_API UTankBarrel : public UStaticMeshComponent
 
 
 public:
-	void Elevate(float DegreesPerSecond);
+	void Elevate(float RelativeSpeed);
 
 private:
 	UPROPERTY(EditAnywhere, Category = "Setup")
