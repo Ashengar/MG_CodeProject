@@ -14,3 +14,4 @@ Hovertank Game vrs AI Enemies
 * 09_Aiming pt2
 * 10_Setting Up Rotation and Elevation C++
 * 11_Barrel Elevation C++
+* 12_Sorting Out Aiming Solution
