@@ -5,7 +5,7 @@
 #include "Components/ActorComponent.h"
 #include "TankAimingComponent.generated.h"
 
-// Forward Declaration
+// Forward Declarations
 class UTankBarrel; 
 
 // Properties for Barrel
