@@ -19,3 +19,4 @@ Hovertank Game vrs AI Enemies
 * 14_Turret and Barrel Moving C++
 * 15_Spawning Projectiles
 * 16_Projectile Movement
+* 17_Setting Throttle Values and Friction Settings
