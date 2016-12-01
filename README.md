@@ -17,3 +17,4 @@ Hovertank Game vrs AI Enemies
 * 12_Sorting Out Aiming Solution
 * 13_Forward Declarations Added C++
 * 14_Turret and Barrel Moving C++
+* 15_Spawning Projectiles
