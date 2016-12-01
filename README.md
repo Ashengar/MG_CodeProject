@@ -20,3 +20,4 @@ Hovertank Game vrs AI Enemies
 * 15_Spawning Projectiles
 * 16_Projectile Movement
 * 17_Setting Throttle Values and Friction Settings
+* 18_Assigning Input Controller Axis C++
