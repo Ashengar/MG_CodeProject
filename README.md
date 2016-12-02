@@ -21,3 +21,4 @@ Hovertank Game vrs AI Enemies
 * 16_Projectile Movement
 * 17_Setting Throttle Values and Friction Settings
 * 18_Assigning Input Controller Axis C++
+* 19_Finishing Off Control Method C++/Blueprint
