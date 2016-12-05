@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright Marett Creative Labs
 
 #pragma once
 
@@ -17,9 +17,13 @@ class MG_CODEPROJECT_API ATankPlayerController : public APlayerController
 {
 	GENERATED_BODY()
 	
-private:
+protected:
+	UFUNCTION(BlueprintCallable, Category = "Setup")
 	ATank* GetControlledTank() const;
-	
+
+
+
+private:
 	virtual void BeginPlay() override;
 
 	virtual void Tick (float DeltaTime) override;
