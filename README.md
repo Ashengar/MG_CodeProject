@@ -27,3 +27,4 @@ Hovertank Game vrs AI Enemies
 * 22_Movement Pt2
 * 23_Aiming UI
 * 24_Aiming Solution Continued
+* 25_Game Error Handling
