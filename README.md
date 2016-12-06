@@ -26,3 +26,4 @@ Hovertank Game vrs AI Enemies
 * 21_Tank AI Movement
 * 22_Movement Pt2
 * 23_Aiming UI
+* 24_Aiming Solution Continued
