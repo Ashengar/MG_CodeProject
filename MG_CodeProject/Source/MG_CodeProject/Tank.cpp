@@ -15,6 +15,6 @@ ATank::ATank()
 
 
 
-
+//UE_LOG(LogTemp, Warning, TEXT(" bGotHitLocation: %i"), bGotHitLocation)
 
 
