@@ -4,7 +4,6 @@
 #include "MG_CodeProject.h"
 #include "TankBarrel.h"
 #include "Projectile.h"
-#include "TankAimingComponent.h"
 #include "Tank.h"
 
 
@@ -21,12 +20,6 @@ void ATank::BeginPlay()
 	Super::BeginPlay();
 }
 
-
-void ATank::AimAt(FVector HitLocation)
-{
-	if (!ensure(TankAimingComponent)) { return; }
-	TankAimingComponent->AimAt(HitLocation, LaunchSpeed);
-}
 
 void ATank::Fire()
 {
@@ -46,3 +39,6 @@ void ATank::Fire()
 		LastFireTime = FPlatformTime::Seconds();
 	}
 }
+
+//auto Time = GetWorld()->GetTimeSeconds();
+//UE_LOG(LogTemp, Warning, TEXT("Running"));
