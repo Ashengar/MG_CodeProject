@@ -15,7 +15,6 @@ ATank::ATank()
 
 
 
-
-
-//auto Time = GetWorld()->GetTimeSeconds();
 //UE_LOG(LogTemp, Warning, TEXT("Running"));
+
+
