@@ -32,3 +32,4 @@ Hovertank Game vrs AI Enemies
 * 27_Refactoring Complete
 * 28_Aiming UI Fixed
 * 29_OnHit Event
+* 30_Friction and Throttle
