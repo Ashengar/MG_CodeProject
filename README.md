@@ -1,4 +1,4 @@
-# MG_CodeProject
+n# MG_CodeProject
 Hovertank Game vrs AI Enemies
 
 ## List of Commits
@@ -31,3 +31,4 @@ Hovertank Game vrs AI Enemies
 * 26_Refactoring
 * 27_Refactoring Complete
 * 28_Aiming UI Fixed
+* 29_OnHit Event
