@@ -30,3 +30,4 @@ Hovertank Game vrs AI Enemies
 * 25_Game Error Handling
 * 26_Refactoring
 * 27_Refactoring Complete
+* 28_Aiming UI Fixed
