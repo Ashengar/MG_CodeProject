@@ -6,7 +6,7 @@ public class MG_CodeProject : ModuleRules
 {
 	public MG_CodeProject(TargetInfo Target)
 	{
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "VehiclesPlugin" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
