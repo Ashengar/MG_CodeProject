@@ -1,3 +1,4 @@
+#include "TankTrack.h"
 #include "VehiclesPluginPrivatePCH.h"
 
 UWheeledVehicleMovementComponentTank::UWheeledVehicleMovementComponentTank(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer)
@@ -591,3 +592,4 @@ void UWheeledVehicleMovementComponentTank::ComputeConstants()
 	Super::ComputeConstants();
 	MaxEngineRPM = EngineSetup.MaxRPM;
 }
+
